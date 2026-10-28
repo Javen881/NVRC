@@ -6,6 +6,8 @@ local.properties
 *.jks
 *.keystore
 vendor/hikvision/sdk/
+
+# Vendor SDKs must be obtained separately under their own terms.
 vendor/uniview/sdk/
 vendor/uniview/reference/
 vendor/dahua/dahua_net_sdk/
